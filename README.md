@@ -7,7 +7,7 @@
 
 Xin chào, mình là Quang Minh, sinh viên năm 3 đam mê với việc phát triển web và tạo ra các ứng dụng chất lượng cao. Mình yêu thích việc tìm hiểu những công nghệ mới và áp dụng chúng vào các dự án thực tế để mang lại trải nghiệm tốt nhất cho người dùng. Trong suốt quá trình học tập, mình đã tham gia nhiều dự án từ nhỏ đến lớn, và mỗi dự án đều giúp mình học hỏi và cải thiện kỹ năng kỹ thuật cũng như quản lý dự án.
 
-Mình luôn sẵn sàng đón nhận các thử thách mới và không ngừng hoàn thiện bản thân để trở thành một lập trình viên xuất sắc hơn.
+Luôn sẵn sàng đón nhận các thử thách mới và không ngừng hoàn thiện bản thân để trở thành một lập trình viên xuất sắc .
 
 ## ✨ Tính Năng
 - **👨‍💼 Hồ sơ cá nhân**: Giới thiệu về bản thân, kỹ năng và kinh nghiệm làm việc.
