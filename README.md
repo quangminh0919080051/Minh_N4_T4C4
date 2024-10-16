@@ -1,6 +1,7 @@
 # 👨‍💻 About Me
 
-![About Me Banner](https://your-image-url.com/banner.png)
+![Công nghệ phần mềm tiên tiến](https://img.lovepik.com/photo/40005/0347.jpg_wh860.jpg)
+
 
 ## 📖 Giới thiệu
 
