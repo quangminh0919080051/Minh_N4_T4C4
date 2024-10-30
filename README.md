@@ -18,6 +18,9 @@ Mình là thành viên của **Nhóm 4**, một nhóm sinh viên nghiên cứu v
   - **Thanh toán trực tuyến**: Tích hợp cổng thanh toán giúp mua sắm an toàn, tiện lợi.
 
   **Công nghệ sử dụng**: React, MVC, Node.js, Express.js, MongoDB, Ant Design, và triển khai trên Netlify và Heroku.
+ - **Ứng dụng quản lý nhân sự**: Ứng dụng hỗ trợ quản lý thông tin nhân viên, lập lịch hẹn, và theo dõi thông tin y tế, sử dụng **ASP.NET Core Web API**.
+
+- **Game Dragon Battle**: Một trò chơi đối kháng giữa các rồng, với các tính năng nâng cấp và tự động di chuyển, được xây dựng bằng **Java**.
 
 ## 🛠️ Công nghệ và ngôn ngữ lập trình
 
